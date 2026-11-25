@@ -1,0 +1,36 @@
+{
+  "as_of": "2026-01-01",
+  "n_works": 80,
+  "n_countries": 18,
+  "n_cells": 1440,
+  "status_counts": {
+    "PD": 734,
+    "Protected": 531,
+    "Not modelled": 88,
+    "Uncertain": 87
+  },
+  "works_with_mixed_status": 56,
+  "works_pd_everywhere_modelled": 17,
+  "pct_pd_by_country": {
+    "GB": 38.8,
+    "FR": 33.8,
+    "DE": 38.8,
+    "ES": 27.5,
+    "US": 56.2,
+    "CA": 62.5,
+    "MX": 31.2,
+    "BR": 51.2,
+    "CO": 23.8,
+    "JP": 56.2,
+    "CN": 86.2,
+    "KR": 53.8,
+    "AU": 37.5,
+    "NZ": 86.2,
+    "ZA": 86.2,
+    "NG": 37.5,
+    "EG": 72.5,
+    "RU": 37.5
+  },
+  "max_unlock_spread_years": 88,
+  "work_with_max_spread": "Rashomon (1950)"
+}

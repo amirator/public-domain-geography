@@ -1,0 +1,22 @@
+Nineteen Eighty-Four has been free in London since 2021. In New York it stays locked until 2045.
+
+I mapped 80 classics across 18 countries, taking each country's copyright rule from its own statute.
+
+What surprised me:
+
+• 45 of the 80 works are free in at least one country and still protected in another.
+• Tolkien has been public domain in New Zealand since 2024. In the UK, until the end of 2043.
+• The Little Prince is free across most of Europe, but not in France until 2032 ("mort pour la France").
+• The Revolt of the Masses became free on 1 January 2026 in Berlin, Paris, London and New York. In Spain, Ortega y Gasset's own country, it stays locked until the end of 2035.
+• Rashomon has been free in China since 2001. In Europe it is protected until 2088.
+
+The public domain isn't a date. It's a border. That matters for publishers, streamers, teachers, and anyone building "public domain" AI training data.
+
+Should a classic have one global public-domain date? Or should every country keep its own clock?
+
+Full article: {MEDIUM_URL}
+Data and code: https://github.com/amirator/public-domain-geography
+
+(Research, not legal advice.)
+
+#Copyright #PublicDomain #Culture

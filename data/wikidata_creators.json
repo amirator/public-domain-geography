@@ -1,0 +1,674 @@
+{
+  "George Orwell": {
+    "name": "George Orwell",
+    "qid": "Q3335",
+    "death_year": 1950,
+    "label": "George Orwell",
+    "match": "ok",
+    "expected": 1950
+  },
+  "F. Scott Fitzgerald": {
+    "name": "F. Scott Fitzgerald",
+    "qid": "Q93354",
+    "death_year": 1940,
+    "label": "F. Scott Fitzgerald",
+    "match": "ok",
+    "expected": 1940
+  },
+  "Virginia Woolf": {
+    "name": "Virginia Woolf",
+    "qid": "Q40909",
+    "death_year": 1941,
+    "label": "Virginia Woolf",
+    "match": "ok",
+    "expected": 1941
+  },
+  "Franz Kafka": {
+    "name": "Franz Kafka",
+    "qid": "Q905",
+    "death_year": 1924,
+    "label": "Franz Kafka",
+    "match": "ok",
+    "expected": 1924
+  },
+  "Thomas Mann": {
+    "name": "Thomas Mann",
+    "qid": "Q37030",
+    "death_year": 1955,
+    "label": "Thomas Mann",
+    "match": "ok",
+    "expected": 1955
+  },
+  "Hermann Hesse": {
+    "name": "Hermann Hesse",
+    "qid": "Q25973",
+    "death_year": 1962,
+    "label": "Hermann Hesse",
+    "match": "ok",
+    "expected": 1962
+  },
+  "Ernest Hemingway": {
+    "name": "Ernest Hemingway",
+    "qid": "Q23434",
+    "death_year": 1961,
+    "label": "Ernest Hemingway",
+    "match": "ok",
+    "expected": 1961
+  },
+  "Agatha Christie": {
+    "name": "Agatha Christie",
+    "qid": "Q35064",
+    "death_year": 1976,
+    "label": "Agatha Christie",
+    "match": "ok",
+    "expected": 1976
+  },
+  "A. A. Milne": {
+    "name": "A. A. Milne",
+    "qid": "Q207036",
+    "death_year": 1956,
+    "label": "A. A. Milne",
+    "match": "ok",
+    "expected": 1956
+  },
+  "J. R. R. Tolkien": {
+    "name": "J. R. R. Tolkien",
+    "qid": "Q892",
+    "death_year": 1973,
+    "label": "J. R. R. Tolkien",
+    "match": "ok",
+    "expected": 1973
+  },
+  "Antoine de Saint-Exupéry": {
+    "name": "Antoine de Saint-Exupéry",
+    "qid": "Q2908",
+    "death_year": 1944,
+    "label": "Antoine de Saint-Exupéry",
+    "match": "ok",
+    "expected": 1944
+  },
+  "Albert Camus": {
+    "name": "Albert Camus",
+    "qid": "Q34670",
+    "death_year": 1960,
+    "label": "Albert Camus",
+    "match": "ok",
+    "expected": 1960
+  },
+  "Aldous Huxley": {
+    "name": "Aldous Huxley",
+    "qid": "Q81447",
+    "death_year": 1963,
+    "label": "Aldous Huxley",
+    "match": "ok",
+    "expected": 1963
+  },
+  "Dashiell Hammett": {
+    "name": "Dashiell Hammett",
+    "qid": "Q186335",
+    "death_year": 1961,
+    "label": "Dashiell Hammett",
+    "match": "ok",
+    "expected": 1961
+  },
+  "William Faulkner": {
+    "name": "William Faulkner",
+    "qid": "Q38392",
+    "death_year": 1962,
+    "label": "William Faulkner",
+    "match": "ok",
+    "expected": 1962
+  },
+  "Yasunari Kawabata": {
+    "name": "Yasunari Kawabata",
+    "qid": "Q43736",
+    "death_year": 1972,
+    "label": "Yasunari Kawabata",
+    "match": "ok",
+    "expected": 1972
+  },
+  "Yukio Mishima": {
+    "name": "Yukio Mishima",
+    "qid": "Q134456",
+    "death_year": 1970,
+    "label": "Yukio Mishima",
+    "match": "ok",
+    "expected": 1970
+  },
+  "Ryūnosuke Akutagawa": {
+    "name": "Ryūnosuke Akutagawa",
+    "qid": "Q186326",
+    "death_year": 1927,
+    "label": "Ryūnosuke Akutagawa",
+    "match": "ok",
+    "expected": 1927
+  },
+  "Lu Xun": {
+    "name": "Lu Xun",
+    "qid": "Q23114",
+    "death_year": 1936,
+    "label": "Lu Xun",
+    "match": "ok",
+    "expected": 1936
+  },
+  "Taha Hussein": {
+    "name": "Taha Hussein",
+    "qid": "Q328765",
+    "death_year": 1973,
+    "label": "Taha Hussein",
+    "match": "ok",
+    "expected": 1973
+  },
+  "Jorge Luis Borges": {
+    "name": "Jorge Luis Borges",
+    "qid": "Q909",
+    "death_year": 1986,
+    "label": "Jorge Luis Borges",
+    "match": "ok",
+    "expected": 1986
+  },
+  "Juan Rulfo": {
+    "name": "Juan Rulfo",
+    "qid": "Q200661",
+    "death_year": 1986,
+    "label": "Juan Rulfo",
+    "match": "ok",
+    "expected": 1986
+  },
+  "Felix Salten": {
+    "name": "Felix Salten",
+    "qid": "Q163747",
+    "death_year": 1945,
+    "label": "Felix Salten",
+    "match": "ok",
+    "expected": 1945
+  },
+  "Pablo Neruda": {
+    "name": "Pablo Neruda",
+    "qid": "Q34189",
+    "death_year": 1973,
+    "label": "Pablo Neruda",
+    "match": "ok",
+    "expected": 1973
+  },
+  "Hergé": {
+    "name": "Hergé",
+    "qid": "Q52985",
+    "death_year": 1983,
+    "label": "Hergé",
+    "match": "ok",
+    "expected": 1983
+  },
+  "H. P. Lovecraft": {
+    "name": "H. P. Lovecraft",
+    "qid": "Q169566",
+    "death_year": 1937,
+    "label": "H. P. Lovecraft",
+    "match": "ok",
+    "expected": 1937
+  },
+  "J. M. Barrie": {
+    "name": "J. M. Barrie",
+    "qid": "Q81796",
+    "death_year": 1937,
+    "label": "J. M. Barrie",
+    "match": "ok",
+    "expected": 1937
+  },
+  "Margaret Mitchell": {
+    "name": "Margaret Mitchell",
+    "qid": "Q173540",
+    "death_year": 1949,
+    "label": "Margaret Mitchell",
+    "match": "ok",
+    "expected": 1949
+  },
+  "John Steinbeck": {
+    "name": "John Steinbeck",
+    "qid": "Q39212",
+    "death_year": 1968,
+    "label": "John Steinbeck",
+    "match": "ok",
+    "expected": 1968
+  },
+  "Kahlil Gibran": {
+    "name": "Kahlil Gibran",
+    "qid": "Q47737",
+    "death_year": 1931,
+    "label": "Kahlil Gibran",
+    "match": "ok",
+    "expected": 1931
+  },
+  "Jean-Paul Sartre": {
+    "name": "Jean-Paul Sartre",
+    "qid": "Q9364",
+    "death_year": 1980,
+    "label": "Jean-Paul Sartre",
+    "match": "ok",
+    "expected": 1980
+  },
+  "Ludwig Wittgenstein": {
+    "name": "Ludwig Wittgenstein",
+    "qid": "Q9391",
+    "death_year": 1951,
+    "label": "Ludwig Wittgenstein",
+    "match": "ok",
+    "expected": 1951
+  },
+  "Martin Heidegger": {
+    "name": "Martin Heidegger",
+    "qid": "Q48301",
+    "death_year": 1976,
+    "label": "Martin Heidegger",
+    "match": "ok",
+    "expected": 1976
+  },
+  "James Joyce": {
+    "name": "James Joyce",
+    "qid": "Q6882",
+    "death_year": 1941,
+    "label": "James Joyce",
+    "match": "ok",
+    "expected": 1941
+  },
+  "José Ortega y Gasset": {
+    "name": "José Ortega y Gasset",
+    "qid": "Q153020",
+    "death_year": 1955,
+    "label": "José Ortega y Gasset",
+    "match": "ok",
+    "expected": 1955
+  },
+  "Fritz Lang": {
+    "name": "Fritz Lang",
+    "qid": "Q19504",
+    "death_year": 1976,
+    "label": "Fritz Lang",
+    "match": "ok",
+    "expected": 1976
+  },
+  "Thea von Harbou": {
+    "name": "Thea von Harbou",
+    "qid": "Q58866",
+    "death_year": 1954,
+    "label": "Thea von Harbou",
+    "match": "ok",
+    "expected": 1954
+  },
+  "Gottfried Huppertz": {
+    "name": "Gottfried Huppertz",
+    "qid": "Q96065",
+    "death_year": 1937,
+    "label": "Gottfried Huppertz",
+    "match": "MISMATCH",
+    "expected": 1941
+  },
+  "Walt Disney": {
+    "name": "Walt Disney",
+    "qid": "Q8704",
+    "death_year": 1966,
+    "label": "Walt Disney",
+    "match": "ok",
+    "expected": 1966
+  },
+  "Ub Iwerks": {
+    "name": "Ub Iwerks",
+    "qid": "Q336424",
+    "death_year": 1971,
+    "label": "Ub Iwerks",
+    "match": "ok",
+    "expected": 1971
+  },
+  "Charlie Chaplin": {
+    "name": "Charlie Chaplin",
+    "qid": "Q882",
+    "death_year": 1977,
+    "label": "Charlie Chaplin",
+    "match": "ok",
+    "expected": 1977
+  },
+  "F. W. Murnau": {
+    "name": "F. W. Murnau",
+    "qid": "Q55412",
+    "death_year": 1931,
+    "label": "F. W. Murnau",
+    "match": "ok",
+    "expected": 1931
+  },
+  "Henrik Galeen": {
+    "name": "Henrik Galeen",
+    "qid": "Q97411",
+    "death_year": 1949,
+    "label": "Henrik Galeen",
+    "match": "ok",
+    "expected": 1949
+  },
+  "Hans Erdmann": {
+    "name": "Hans Erdmann",
+    "qid": "Q99363",
+    "death_year": 1942,
+    "label": "Hans Erdmann",
+    "match": "ok",
+    "expected": 1942
+  },
+  "Sergei Eisenstein": {
+    "name": "Sergei Eisenstein",
+    "qid": "Q8003",
+    "death_year": 1948,
+    "label": "Sergei Eisenstein",
+    "match": "ok",
+    "expected": 1948
+  },
+  "Nina Agadzhanova": {
+    "name": "Nina Agadzhanova",
+    "qid": "Q7495246",
+    "death_year": 1974,
+    "label": "Nina Agadzhanova-Shutko",
+    "match": "ok",
+    "expected": 1974
+  },
+  "Edmund Meisel": {
+    "name": "Edmund Meisel",
+    "qid": "Q85448",
+    "death_year": 1930,
+    "label": "Edmund Meisel",
+    "match": "ok",
+    "expected": 1930
+  },
+  "Carl Theodor Dreyer": {
+    "name": "Carl Theodor Dreyer",
+    "qid": "Q51127",
+    "death_year": 1968,
+    "label": "Carl Theodor Dreyer",
+    "match": "ok",
+    "expected": 1968
+  },
+  "Joseph Delteil": {
+    "name": "Joseph Delteil",
+    "qid": "Q3184834",
+    "death_year": 1978,
+    "label": "Joseph Delteil",
+    "match": "ok",
+    "expected": 1978
+  },
+  "Michael Curtiz": {
+    "name": "Michael Curtiz",
+    "qid": "Q51491",
+    "death_year": 1962,
+    "label": "Michael Curtiz",
+    "match": "ok",
+    "expected": 1962
+  },
+  "Julius J. Epstein": {
+    "name": "Julius J. Epstein",
+    "qid": "Q795022",
+    "death_year": 2000,
+    "label": "Julius J. Epstein",
+    "match": "ok",
+    "expected": 2000
+  },
+  "Philip G. Epstein": {
+    "name": "Philip G. Epstein",
+    "qid": "Q795100",
+    "death_year": 1952,
+    "label": "Philip G. Epstein",
+    "match": "ok",
+    "expected": 1952
+  },
+  "Howard Koch": {
+    "name": "Howard Koch",
+    "qid": "Q1343692",
+    "death_year": 1995,
+    "label": "Howard Koch",
+    "match": "ok",
+    "expected": 1995
+  },
+  "Max Steiner": {
+    "name": "Max Steiner",
+    "qid": "Q350704",
+    "death_year": 1971,
+    "label": "Max Steiner",
+    "match": "ok",
+    "expected": 1971
+  },
+  "Akira Kurosawa": {
+    "name": "Akira Kurosawa",
+    "qid": "Q8006",
+    "death_year": 1998,
+    "label": "Akira Kurosawa",
+    "match": "ok",
+    "expected": 1998
+  },
+  "Shinobu Hashimoto": {
+    "name": "Shinobu Hashimoto",
+    "qid": "Q3107382",
+    "death_year": 2018,
+    "label": "Shinobu Hashimoto",
+    "match": "ok",
+    "expected": 2018
+  },
+  "Fumio Hayasaka": {
+    "name": "Fumio Hayasaka",
+    "qid": "Q2632033",
+    "death_year": 1955,
+    "label": "Fumio Hayasaka",
+    "match": "ok",
+    "expected": 1955
+  },
+  "Luis Buñuel": {
+    "name": "Luis Buñuel",
+    "qid": "Q51545",
+    "death_year": 1983,
+    "label": "Luis Buñuel",
+    "match": "ok",
+    "expected": 1983
+  },
+  "Salvador Dalí": {
+    "name": "Salvador Dalí",
+    "qid": "Q5577",
+    "death_year": 1989,
+    "label": "Salvador Dalí",
+    "match": "ok",
+    "expected": 1989
+  },
+  "Maurice Ravel": {
+    "name": "Maurice Ravel",
+    "qid": "Q1178",
+    "death_year": 1937,
+    "label": "Maurice Ravel",
+    "match": "ok",
+    "expected": 1937
+  },
+  "George Gershwin": {
+    "name": "George Gershwin",
+    "qid": "Q123829",
+    "death_year": 1937,
+    "label": "George Gershwin",
+    "match": "ok",
+    "expected": 1937
+  },
+  "Igor Stravinsky": {
+    "name": "Igor Stravinsky",
+    "qid": "Q7314",
+    "death_year": 1971,
+    "label": "Igor Stravinsky",
+    "match": "ok",
+    "expected": 1971
+  },
+  "Carl Orff": {
+    "name": "Carl Orff",
+    "qid": "Q44086",
+    "death_year": 1982,
+    "label": "Carl Orff",
+    "match": "ok",
+    "expected": 1982
+  },
+  "Sergei Prokofiev": {
+    "name": "Sergei Prokofiev",
+    "qid": "Q49481",
+    "death_year": 1953,
+    "label": "Sergei Prokofiev",
+    "match": "ok",
+    "expected": 1953
+  },
+  "Dmitri Shostakovich": {
+    "name": "Dmitri Shostakovich",
+    "qid": "Q80135",
+    "death_year": 1975,
+    "label": "Dmitri Shostakovich",
+    "match": "ok",
+    "expected": 1975
+  },
+  "Jean Sibelius": {
+    "name": "Jean Sibelius",
+    "qid": "Q45682",
+    "death_year": 1957,
+    "label": "Jean Sibelius",
+    "match": "ok",
+    "expected": 1957
+  },
+  "Sergei Rachmaninoff": {
+    "name": "Sergei Rachmaninoff",
+    "qid": "Q131861",
+    "death_year": 1943,
+    "label": "Sergei Rachmaninoff",
+    "match": "ok",
+    "expected": 1943
+  },
+  "Joaquín Rodrigo": {
+    "name": "Joaquín Rodrigo",
+    "qid": "Q151084",
+    "death_year": 1999,
+    "label": "Joaquín Rodrigo",
+    "match": "ok",
+    "expected": 1999
+  },
+  "Erik Satie": {
+    "name": "Erik Satie",
+    "qid": "Q187192",
+    "death_year": 1925,
+    "label": "Erik Satie",
+    "match": "ok",
+    "expected": 1925
+  },
+  "Kurt Weill": {
+    "name": "Kurt Weill",
+    "qid": "Q55004",
+    "death_year": 1950,
+    "label": "Kurt Weill",
+    "match": "ok",
+    "expected": 1950
+  },
+  "Bertolt Brecht": {
+    "name": "Bertolt Brecht",
+    "qid": "Q38757",
+    "death_year": 1956,
+    "label": "Bertolt Brecht",
+    "match": "ok",
+    "expected": 1956
+  },
+  "Heitor Villa-Lobos": {
+    "name": "Heitor Villa-Lobos",
+    "qid": "Q203514",
+    "death_year": 1959,
+    "label": "Heitor Villa-Lobos",
+    "match": "ok",
+    "expected": 1959
+  },
+  "Manuel de Falla": {
+    "name": "Manuel de Falla",
+    "qid": "Q193283",
+    "death_year": 1946,
+    "label": "Manuel de Falla",
+    "match": "ok",
+    "expected": 1946
+  },
+  "Pablo Picasso": {
+    "name": "Pablo Picasso",
+    "qid": "Q5593",
+    "death_year": 1973,
+    "label": "Pablo Picasso",
+    "match": "ok",
+    "expected": 1973
+  },
+  "Frida Kahlo": {
+    "name": "Frida Kahlo",
+    "qid": "Q5588",
+    "death_year": 1954,
+    "label": "Frida Kahlo",
+    "match": "ok",
+    "expected": 1954
+  },
+  "Edvard Munch": {
+    "name": "Edvard Munch",
+    "qid": "Q41406",
+    "death_year": 1944,
+    "label": "Edvard Munch",
+    "match": "ok",
+    "expected": 1944
+  },
+  "René Magritte": {
+    "name": "René Magritte",
+    "qid": "Q7836",
+    "death_year": 1967,
+    "label": "René Magritte",
+    "match": "ok",
+    "expected": 1967
+  },
+  "Piet Mondrian": {
+    "name": "Piet Mondrian",
+    "qid": "Q151803",
+    "death_year": 1944,
+    "label": "Piet Mondrian",
+    "match": "ok",
+    "expected": 1944
+  },
+  "Edward Hopper": {
+    "name": "Edward Hopper",
+    "qid": "Q203401",
+    "death_year": 1967,
+    "label": "Edward Hopper",
+    "match": "ok",
+    "expected": 1967
+  },
+  "Henri Matisse": {
+    "name": "Henri Matisse",
+    "qid": "Q5589",
+    "death_year": 1954,
+    "label": "Henri Matisse",
+    "match": "ok",
+    "expected": 1954
+  },
+  "Diego Rivera": {
+    "name": "Diego Rivera",
+    "qid": "Q171128",
+    "death_year": 1957,
+    "label": "Diego Rivera",
+    "match": "ok",
+    "expected": 1957
+  },
+  "Marcel Duchamp": {
+    "name": "Marcel Duchamp",
+    "qid": "Q5912",
+    "death_year": 1968,
+    "label": "Marcel Duchamp",
+    "match": "ok",
+    "expected": 1968
+  },
+  "Kazimir Malevich": {
+    "name": "Kazimir Malevich",
+    "qid": "Q130777",
+    "death_year": 1935,
+    "label": "Kazimir Malevich",
+    "match": "ok",
+    "expected": 1935
+  },
+  "Wassily Kandinsky": {
+    "name": "Wassily Kandinsky",
+    "qid": "Q61064",
+    "death_year": 1944,
+    "label": "Wassily Kandinsky",
+    "match": "ok",
+    "expected": 1944
+  }
+}

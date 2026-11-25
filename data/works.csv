@@ -1,0 +1,81 @@
+id,title,type,creators,expected_deaths,pub_year,origin,author_nat,flags,note
+b01,Nineteen Eighty-Four,book,George Orwell,1950,1949,GB,GB,,Published June 1949 in London (Secker & Warburg) and New York (Harcourt).
+b02,Animal Farm,book,George Orwell,1950,1945,GB,GB,,
+b03,The Great Gatsby,book,F. Scott Fitzgerald,1940,1925,US,US,,
+b04,Mrs Dalloway,book,Virginia Woolf,1941,1925,GB,GB,,
+b05,The Trial,book,Franz Kafka,1924,1925,DE,AT,,Published posthumously in Berlin (Die Schmiede). Kafka was a Czechoslovak citizen at death; treated as EU-national author.
+b06,The Magic Mountain,book,Thomas Mann,1955,1924,DE,DE,,
+b07,Siddhartha,book,Hermann Hesse,1962,1922,DE,DE,,Hesse held Swiss citizenship from 1924; first published in Berlin (S. Fischer).
+b08,Steppenwolf,book,Hermann Hesse,1962,1927,DE,DE,,
+b09,The Sun Also Rises,book,Ernest Hemingway,1961,1926,US,US,,
+b10,The Old Man and the Sea,book,Ernest Hemingway,1961,1952,US,US,,
+b11,The Murder of Roger Ackroyd,book,Agatha Christie,1976,1926,GB,GB,,
+b12,The Murder at the Vicarage,book,Agatha Christie,1976,1930,GB,GB,,
+b13,Murder on the Orient Express,book,Agatha Christie,1976,1934,GB,GB,,
+b14,Winnie-the-Pooh (text),book,A. A. Milne,1956,1926,GB,GB,,Text only. E. H. Shepard's illustrations have a separate term (Shepard died 1976).
+b15,The Hobbit,book,J. R. R. Tolkien,1973,1937,GB,GB,,
+b16,The Fellowship of the Ring,book,J. R. R. Tolkien,1973,1954,GB,GB,,
+b17,The Little Prince,book,Antoine de Saint-Exupéry,1944,1943,US,FR,mort_pour_la_france,First published in New York (Reynal & Hitchcock) in 1943.
+b18,The Stranger,book,Albert Camus,1960,1942,FR,FR,,
+b19,Brave New World,book,Aldous Huxley,1963,1932,GB,GB,,
+b20,The Maltese Falcon,book,Dashiell Hammett,1961,1930,US,US,,
+b21,As I Lay Dying,book,William Faulkner,1962,1930,US,US,,
+b22,Snow Country,book,Yasunari Kawabata,1972,1937,JP,JP,,First book edition 1937 (Sogensha); revised 1948.
+b23,The Temple of the Golden Pavilion,book,Yukio Mishima,1970,1956,JP,JP,,
+b24,Rashōmon (short story),book,Ryūnosuke Akutagawa,1927,1915,JP,JP,,
+b25,The True Story of Ah Q,book,Lu Xun,1936,1922,CN,CN,,
+b26,The Days (Al-Ayyam vol. 1),book,Taha Hussein,1973,1929,EG,EG,,
+b27,Ficciones,book,Jorge Luis Borges,1986,1944,AR,AR,,
+b28,Pedro Páramo,book,Juan Rulfo,1986,1955,MX,MX,,
+b29,"Bambi, A Life in the Woods",book,Felix Salten,1945,1923,AT,AT,,
+b30,Twenty Love Poems and a Song of Despair,book,Pablo Neruda,1973,1924,CL,CL,,
+b31,Tintin in the Land of the Soviets,book,Hergé,1983,1929,BE,BE,,Serialised 1929-30 in Le Petit Vingtième; US status per Duke CSPD 2025.
+b32,The Call of Cthulhu,book,H. P. Lovecraft,1937,1928,US,US,,
+b33,Peter Pan (Peter and Wendy),book,J. M. Barrie,1937,1911,GB,GB,uk_peter_pan,UK: a perpetual royalty right for Great Ormond Street Hospital survives (CDPA 1988 s.301 and Sch. 6) even though copyright has expired.
+b34,Gone with the Wind,book,Margaret Mitchell,1949,1936,US,US,,
+b35,Of Mice and Men,book,John Steinbeck,1968,1937,US,US,,
+b36,The Prophet,book,Kahlil Gibran,1931,1923,US,US,,
+b37,Being and Nothingness,book,Jean-Paul Sartre,1980,1943,FR,FR,,
+b38,Tractatus Logico-Philosophicus,book,Ludwig Wittgenstein,1951,1921,DE,GB,,First published 1921 in Annalen der Naturphilosophie (Leipzig). Wittgenstein became a British citizen in 1939.
+b39,Philosophical Investigations,book,Ludwig Wittgenstein,1951,1953,GB,GB,us_renewal_unknown,Posthumous; published 1953 by Blackwell (Oxford) and Macmillan (New York).
+b40,Being and Time,book,Martin Heidegger,1976,1927,DE,DE,,
+b41,Ulysses,book,James Joyce,1941,1922,FR,IE,,First published in Paris (Shakespeare and Company).
+b42,The Revolt of the Masses,book,José Ortega y Gasset,1955,1930,ES,ES,,
+b43,The Myth of Sisyphus,book,Albert Camus,1960,1942,FR,FR,,
+f01,Metropolis (1927),film,Fritz Lang|Thea von Harbou|Gottfried Huppertz,1976|1954|1937,1927,DE,DE,,EU film authors: director / screenwriter / composer.
+f02,Steamboat Willie (1928),film,Walt Disney|Ub Iwerks,1966|1971,1928,US,US,film_authors_partial,Directors only; screenplay/music authorship not modelled.
+f03,The Kid (1921),film,Charlie Chaplin,1977,1921,US,GB,,Chaplin was a British national.
+f04,Modern Times (1936),film,Charlie Chaplin,1977,1936,US,GB,,
+f05,Nosferatu (1922),film,F. W. Murnau|Henrik Galeen|Hans Erdmann,1931|1949|1942,1922,DE,DE,,
+f06,Battleship Potemkin (1925),film,Sergei Eisenstein|Nina Agadzhanova|Edmund Meisel,1948|1974|1930,1925,SU,SU,,Meisel's 1926 Berlin score treated as film music.
+f07,The Passion of Joan of Arc (1928),film,Carl Theodor Dreyer|Joseph Delteil,1968|1978,1928,FR,DK,,
+f08,Casablanca (1942),film,Michael Curtiz|Julius J. Epstein|Philip G. Epstein|Howard Koch|Max Steiner,1962|2000|1952|1995|1971,1942,US,US,,
+f09,Rashomon (1950),film,Akira Kurosawa|Shinobu Hashimoto|Fumio Hayasaka,1998|2018|1955,1950,JP,JP,,
+f10,M (1931),film,Fritz Lang|Thea von Harbou,1976|1954,1931,DE,DE,,
+f11,Un Chien Andalou (1929),film,Luis Buñuel|Salvador Dalí,1983|1989,1929,FR,ES,,
+m01,Boléro,music,Maurice Ravel,1937,1929,FR,FR,,Composed 1928; score published 1929 (Durand).
+m02,Rhapsody in Blue,music,George Gershwin,1937,1924,US,US,,
+m03,The Rite of Spring,music,Igor Stravinsky,1971,1913,DE,FR,,Piano reduction published 1913 by Russischer Musikverlag (Berlin); full score 1921. Stravinsky held French citizenship 1934-1945 then US.
+m04,Carmina Burana,music,Carl Orff,1982,1937,DE,DE,,
+m05,Peter and the Wolf,music,Sergei Prokofiev,1953,1936,SU,SU,ru_war_worker,
+m06,Symphony No. 7 'Leningrad',music,Dmitri Shostakovich,1975,1942,SU,SU,ru_war_worker,
+m07,Finlandia,music,Jean Sibelius,1957,1900,FI,FI,,
+m08,Piano Concerto No. 2 (Rachmaninoff),music,Sergei Rachmaninoff,1943,1901,RU,RU,,
+m09,Concierto de Aranjuez,music,Joaquín Rodrigo,1999,1939,ES,ES,,
+m10,Gymnopédies,music,Erik Satie,1925,1888,FR,FR,,
+m11,The Threepenny Opera,music,Kurt Weill|Bertolt Brecht,1950|1956,1928,DE,DE,,Joint work: music (Weill) and text (Brecht); treated as joint for the whole stage work.
+m12,Bachianas Brasileiras No. 5,music,Heitor Villa-Lobos,1959,1938,BR,BR,,Aria composed 1938.
+m13,El amor brujo,music,Manuel de Falla,1946,1915,ES,ES,,
+a01,Les Demoiselles d'Avignon,art,Pablo Picasso,1973,1907,FR,ES,,
+a02,Guernica,art,Pablo Picasso,1973,1937,FR,ES,,Painted in Paris for the Spanish Pavilion.
+a03,The Two Fridas,art,Frida Kahlo,1954,1939,MX,MX,,
+a04,The Scream,art,Edvard Munch,1944,1893,NO,NO,,
+a05,The Treachery of Images,art,René Magritte,1967,1929,BE,BE,,
+a06,The Persistence of Memory,art,Salvador Dalí,1989,1931,ES,ES,,
+a07,"Composition with Red, Blue and Yellow",art,Piet Mondrian,1944,1930,NL,NL,,
+a08,Nighthawks,art,Edward Hopper,1967,1942,US,US,,
+a09,The Dance,art,Henri Matisse,1954,1910,FR,FR,,
+a10,Man at the Crossroads (Man Controller of the Universe),art,Diego Rivera,1957,1934,MX,MX,,
+a11,Fountain,art,Marcel Duchamp,1968,1917,US,FR,,
+a12,Black Square,art,Kazimir Malevich,1935,1915,RU,RU,,
+a13,Composition VIII,art,Wassily Kandinsky,1944,1923,DE,DE,,
